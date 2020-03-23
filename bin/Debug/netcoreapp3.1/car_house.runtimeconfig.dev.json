@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pervysage/.dotnet/store/|arch|/|tfm|",
+      "/Users/pervysage/.nuget/packages"
+    ]
+  }
+}
